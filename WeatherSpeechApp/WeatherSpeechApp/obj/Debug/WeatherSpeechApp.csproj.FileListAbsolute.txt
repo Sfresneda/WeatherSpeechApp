@@ -1,0 +1,9 @@
+C:\Users\aside\Desktop\WeatherApp\WeatherSpeechApp\WeatherSpeechApp\bin\Debug\WeatherSpeechApp.exe.config
+C:\Users\aside\Desktop\WeatherApp\WeatherSpeechApp\WeatherSpeechApp\bin\Debug\WeatherSpeechApp.exe
+C:\Users\aside\Desktop\WeatherApp\WeatherSpeechApp\WeatherSpeechApp\bin\Debug\WeatherSpeechApp.pdb
+C:\Users\aside\Desktop\WeatherApp\WeatherSpeechApp\WeatherSpeechApp\obj\Debug\WeatherSpeechApp.csprojResolveAssemblyReference.cache
+C:\Users\aside\Desktop\WeatherApp\WeatherSpeechApp\WeatherSpeechApp\obj\Debug\WeatherSpeechApp.Form1.resources
+C:\Users\aside\Desktop\WeatherApp\WeatherSpeechApp\WeatherSpeechApp\obj\Debug\WeatherSpeechApp.Properties.Resources.resources
+C:\Users\aside\Desktop\WeatherApp\WeatherSpeechApp\WeatherSpeechApp\obj\Debug\WeatherSpeechApp.csproj.GenerateResource.Cache
+C:\Users\aside\Desktop\WeatherApp\WeatherSpeechApp\WeatherSpeechApp\obj\Debug\WeatherSpeechApp.exe
+C:\Users\aside\Desktop\WeatherApp\WeatherSpeechApp\WeatherSpeechApp\obj\Debug\WeatherSpeechApp.pdb
