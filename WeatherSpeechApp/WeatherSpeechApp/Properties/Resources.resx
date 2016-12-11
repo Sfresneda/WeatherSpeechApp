@@ -118,58 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="b_rain1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Barcelona\b-rain1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="b_rain2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Barcelona\b-rain2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="b_rain_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Barcelona\b-rain 3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="b_sun1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\Barcelona\b-sun1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="b_sun2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Barcelona\b-sun2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="b_sun3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Barcelona\b-sun3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="m_rain1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Madrid\m-rain1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="m_rain2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Madrid\m-rain2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="m_rain3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Madrid\m-rain3.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="m_sun1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\Madrid\m-sun1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="m_sun2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Madrid\m-sun2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="m_sun3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Madrid\m-sun3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="v_rain1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Valencia\v-rain1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="v_rain2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Valencia\v-rain2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="v_rain3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Valencia\v-rain3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="v_sun1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Assets\Valencia\v-sun1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="v_sun2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Valencia\v-sun2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="v_sun3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Assets\Valencia\v-sun3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
